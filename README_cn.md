@@ -20,7 +20,7 @@
 </p>
 
 
-简体中文 |  [English](./README_en.md)
+English |  [简体中文](./README_cn.md)
 
 ## 项目介绍 - idea
 
