@@ -24,6 +24,16 @@
 
 [简体中文](./README.md) | English
 
+# characteristic
+A questionnaire system that can be privatized and deployed
+- Permanent free
+- 28 commonly used questionnaire components
+- Support using Docker for one click startup
+- Regular and quantitative recycling
+- Support displaying different components logically based on different conditions
+- Completely free
+
+
 # Introduction - idea
 
 - At the beginning of 2019, a colleague wanted to do a photo data collection campaign across the country. After investigation, he used a saas tool: [*Customer Form];
