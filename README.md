@@ -22,7 +22,7 @@
 <br />
 
 
-[简体中文](./README.md) | English
+ English | [简体中文](./README_cn.md)
 
 # characteristic
 A questionnaire system that can be privatized and deployed
